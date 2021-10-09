@@ -1,0 +1,191 @@
+,Breed,breed_rank
+0,Retrievers (Labrador),1
+1,German Shepherd Dogs,2
+2,Retrievers (Golden),3
+3,French Bulldogs,4
+4,Bulldogs,5
+5,Beagles,6
+6,Poodles,7
+7,Rottweilers,8
+8,Yorkshire Terriers,9
+9,Pointers (German Shorthaired),10
+10,Boxers,11
+11,Siberian Huskies,12
+12,Dachshunds,13
+13,Great Danes,14
+14,Pembroke Welsh Corgis,15
+15,Doberman Pinschers,16
+16,Australian Shepherds,17
+17,Miniature Schnauzers,18
+18,Cavalier King Charles Spaniels,19
+19,Shih Tzu,20
+20,Boston Terriers,21
+21,Pomeranians,22
+22,Havanese,23
+23,Shetland Sheepdogs,24
+24,Bernese Mountain Dogs,25
+25,Brittanys,26
+26,Spaniels (English Springer),27
+27,Mastiffs,28
+28,Spaniels (Cocker),29
+29,Vizslas,30
+30,Pugs,31
+31,Chihuahuas,32
+32,Maltese,33
+33,Weimaraners,34
+34,Miniature American Shepherds,35
+35,Newfoundlands,36
+36,Cane Corso,37
+37,Border Collies,38
+38,Basset Hounds,39
+39,Collies,40
+40,Rhodesian Ridgebacks,41
+41,West Highland White Terriers,42
+42,Retrievers (Chesapeake Bay),43
+43,Belgian Malinois,44
+44,Shiba Inu,45
+45,Bichons Frises,46
+46,Akitas,47
+47,St. Bernards,48
+48,Soft Coated Wheaten Terriers,49
+49,Bloodhounds,50
+50,Bullmastiffs,51
+51,Spaniels (English Cocker),52
+52,Papillons,53
+53,Portuguese Water Dogs,54
+54,Airedale Terriers,55
+55,Australian Cattle Dogs,56
+56,Samoyeds,57
+57,Scottish Terriers,58
+58,Alaskan Malamutes,59
+59,Bull Terriers,60
+60,Whippets,61
+61,Pointers (German Wirehaired),62
+62,Dalmatians,63
+63,Chinese Shar-Pei,64
+64,Wirehaired Pointing Griffons,65
+65,Great Pyrenees,66
+66,Dogues de Bordeaux,67
+67,Cardigan Welsh Corgis,68
+68,Cairn Terriers,69
+69,Old English Sheepdogs,70
+70,Miniature Pinschers,71
+71,Setters (Irish),72
+72,Irish Wolfhounds,73
+73,Italian Greyhounds,74
+74,Greater Swiss Mountain Dogs,75
+75,Chow Chows,76
+76,Lhasa Apsos,77
+77,Russell Terriers,78
+78,Chinese Crested,79
+79,Giant Schnauzers,80
+80,Coton de Tulear,81
+81,Staffordshire Bull Terriers,82
+82,American Staffordshire Terriers,83
+83,Basenjis,84
+84,Bouviers des Flandres,85
+85,Anatolian Shepherd Dogs,86
+86,Keeshonden,87
+87,Pekingese,88
+88,Retrievers (Nova Scotia Duck Tolling),89
+89,Standard Schnauzers,90
+90,Norwegian Elkhounds,91
+91,Border Terriers,92
+92,Afghan Hounds,93
+93,Brussels Griffons,94
+94,Setters (English),95
+95,Retrievers (Flat-Coated),96
+96,Rat Terriers,97
+97,Spaniels (Boykin),98
+98,Fox Terriers (Wire),99
+99,Leonbergers,100
+100,Tibetan Terriers,101
+101,Borzois,102
+102,Belgian Tervuren,103
+103,Setters (Gordon),104
+104,Norwich Terriers,105
+105,Silky Terriers,106
+106,Neapolitan Mastiffs,107
+107,Japanese Chin,108
+108,Welsh Terriers,109
+109,Schipperkes,110
+110,Spinoni Italiani,111
+111,Toy Fox Terriers,112
+112,Pointers,113
+113,Irish Terriers,114
+114,Miniature Bull Terriers,115
+115,Black Russian Terriers,116
+116,Lagotti Romagnoli,117
+117,American Eskimo Dogs,118
+118,Parson Russell Terriers,119
+119,Belgian Sheepdogs,120
+120,Tibetan Spaniels,121
+121,Fox Terriers (Smooth),122
+122,Salukis,123
+123,Boerboels,124
+124,Bearded Collies,125
+125,American Hairless Terriers,126
+126,Briards,127
+127,Norfolk Terriers,128
+128,Kerry Blue Terriers,129
+129,Black and Tan Coonhounds,130
+130,Treeing Walker Coonhounds,131
+131,Bluetick Coonhounds,132
+132,Spaniels (Welsh Springer),133
+133,English Toy Spaniels,134
+134,Manchester Terriers,135
+135,German Pinschers,136
+136,Australian Terriers,137
+137,Lakeland Terriers,138
+138,Redbone Coonhounds,139
+139,Spaniels (Clumber),140
+140,Beaucerons,141
+141,Pulik,142
+142,Xoloitzcuintli,143
+143,Icelandic Sheepdogs,144
+144,Spaniels (Field),145
+145,Berger Picards,146
+146,Affenpinschers,147
+147,Spanish Water Dogs,148
+148,Swedish Vallhunds,149
+149,Sealyham Terriers,150
+150,Bedlington Terriers,151
+151,Entlebucher Mountain Dogs,152
+152,Tibetan Mastiffs,153
+153,Setters (Irish Red and White),154
+154,Wirehaired Vizslas,155
+155,Greyhounds,156
+156,Kuvaszok,157
+157,Glen of Imaal Terriers,158
+158,Portuguese Podengo Pequenos,159
+159,Petits Bassets Griffons Vendeens,160
+160,Spaniels (Sussex),161
+161,Pumi,162
+162,Komondorok,163
+163,Spaniels (Irish Water),164
+164,Ibizan Hounds,165
+165,Plotts,166
+166,Spaniels (American Water),167
+167,Scottish Deerhounds,168
+168,Lowchen,169
+169,Norwegian Buhunds,170
+170,Retrievers (Curly-Coated),171
+171,Skye Terriers,172
+172,Finnish Lapphunds,173
+173,Pharaoh Hounds,174
+174,Canaan Dogs,175
+175,Polish Lowland Sheepdogs,176
+176,Finnish Spitz,177
+177,American English Coonhounds,178
+178,Chinooks,179
+179,Pyrenean Shepherds,180
+180,Bergamasco Sheepdogs,181
+181,Dandie Dinmont Terriers,182
+182,Harriers,183
+183,Cirnechi dell’Etna,184
+184,Cesky Terriers,185
+185,Otterhounds,186
+186,American Foxhounds,187
+187,Sloughis,188
+188,English Foxhounds,189
+189,Norwegian Lundehunds,190
