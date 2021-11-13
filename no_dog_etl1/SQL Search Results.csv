@@ -1,0 +1,26 @@
+Borough,Breed_Name,Breed_Count,Breed_Rank,Temperament, Average_Price 
+Bronx,Yorkshire Terrier,1180,9,"Alert, Courageous, Energetic, Independent, Intelligent, Loyal, Playful", $800.00 
+Bronx,Shih Tzu,1058,20,"Active, Courageous, Friendly, Gentle, Happy, Intelligent, Lively, Outgoing, Playful"," $1,000.00 "
+Bronx,Chihuahua,832,32,"Alert, Courageous, Devoted, Lively, Intelligent, Quick", $700.00 
+Bronx,American Pit Bull Terrier/Pit Bull,692,NULL,NULL, NULL 
+Bronx,American Pit Bull Mix / Pit Bull Mix,516,NULL,NULL, NULL 
+Queens,Yorkshire Terrier,1625,9,"Alert, Courageous, Energetic, Independent, Intelligent, Loyal, Playful", $800.00 
+Queens,Shih Tzu,1512,20,"Active, Courageous, Friendly, Gentle, Happy, Intelligent, Lively, Outgoing, Playful"," $1,000.00 "
+Queens,Maltese,1137,33,"Active, Docile, Easygoing, Gentle, Intelligent, Playful, Responsive, Sweet-tempered", $700.00 
+Queens,Chihuahua,1072,32,"Alert, Courageous, Devoted, Lively, Intelligent, Quick", $700.00 
+Queens,Labrador Retriever,721,NULL,NULL, NULL 
+Manhattan,Yorkshire Terrier,2029,9,"Alert, Courageous, Energetic, Independent, Intelligent, Loyal, Playful", $800.00 
+Manhattan,Chihuahua,1878,32,"Alert, Courageous, Devoted, Lively, Intelligent, Quick", $700.00 
+Manhattan,Shih Tzu,1790,20,"Active, Courageous, Friendly, Gentle, Happy, Intelligent, Lively, Outgoing, Playful"," $1,000.00 "
+Manhattan,Labrador Retriever,1624,NULL,NULL, NULL 
+Manhattan,Maltese,1185,33,"Active, Docile, Easygoing, Gentle, Intelligent, Playful, Responsive, Sweet-tempered", $700.00 
+Brooklyn,Yorkshire Terrier,1933,9,"Alert, Courageous, Energetic, Independent, Intelligent, Loyal, Playful", $800.00 
+Brooklyn,Shih Tzu,1852,20,"Active, Courageous, Friendly, Gentle, Happy, Intelligent, Lively, Outgoing, Playful"," $1,000.00 "
+Brooklyn,Chihuahua,1464,32,"Alert, Courageous, Devoted, Lively, Intelligent, Quick", $700.00 
+Brooklyn,American Pit Bull Mix / Pit Bull Mix,1035,NULL,NULL, NULL 
+Brooklyn,Labrador Retriever,936,NULL,NULL, NULL 
+Staten Island,Yorkshire Terrier,712,9,"Alert, Courageous, Energetic, Independent, Intelligent, Loyal, Playful", $800.00 
+Staten Island,Shih Tzu,707,20,"Active, Courageous, Friendly, Gentle, Happy, Intelligent, Lively, Outgoing, Playful"," $1,000.00 "
+Staten Island,Labrador Retriever,569,NULL,NULL, NULL 
+Staten Island,Maltese,396,33,"Active, Docile, Easygoing, Gentle, Intelligent, Playful, Responsive, Sweet-tempered", $700.00 
+Staten Island,American Pit Bull Mix / Pit Bull Mix,355,NULL,NULL, NULL 
