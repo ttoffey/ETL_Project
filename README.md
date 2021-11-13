@@ -111,7 +111,7 @@ In a set area, how many people own the breeds we would expect?
 * Data inconsistencies amongst the datasets included "s" in one table for a dog breed but not on another - this was for the most part cleaned up.
 * Other large problem not addressed was the NYC dataset had inconsistent naming; Chose to retain all data from NYC dataset because we would have lost too many dogs but this means we were unable to capture an AKC rating or other characteristics (such as temperment, price, size, etc.) for certain breeds.
 
-Link to SQL Cleanup and Searches - [Link] 
+Link to SQL Cleanup and Searches - [Link] https://github.com/ttoffey/ETL_Project/blob/main/no_dog_etl1/sql_updated.sql
 
 
 Results of last search showing top 5 breeds for the each borough:
